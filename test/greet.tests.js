@@ -4,7 +4,7 @@ describe('the greet function ' , function(){
 
         
     });
-    it('should return "Hello Sithi" when I greet Bella' , function(){
+    it('should return "Hello Bella" when I greet Bella' , function(){
             assert.equal('Hello, Bella', greet('Bella'));
     
             
